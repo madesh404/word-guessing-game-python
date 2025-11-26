@@ -40,6 +40,8 @@ Word Guessing Game/
 cd "Word Guessing Game"
 python word_guessing_game.py
 
+```
+
 ---
 
 ## 📜 How the Game Works
@@ -52,11 +54,14 @@ The game ends when:
     ✅ You guess all letters (win), or
     ❌ You run out of attempts (lose)
 
+---
 
 ## 📘 Word List Source
 
 The file 5-letter-words.txt contains a large list of common English 5-letter words.
 You can replace or expand this list with any 5-letter dictionary.
+
+---
 
 ## ✨ Future Improvements (Optional Ideas)
 
@@ -69,6 +74,8 @@ You can replace or expand this list with any 5-letter dictionary.
 - GUI version using Tkinter or PyGame
 
 - Web version using Flask / React
+
+---
 
 ## 📜 License
 
