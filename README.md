@@ -46,12 +46,12 @@ python word_guessing_game.py
 
 ## 📜 How the Game Works
 
-- You start with 6 attempts.<br>
-- Enter one letter per guess.<br>
-- If the letter is in the word, all positions of that letter are revealed.<br>
-- If the letter is not in the word, you lose an attempt.<br>
-- The game ends when:<br>
-    - ✅ You guess all letters (win), or<br>
+- You start with 6 attempts.
+- Enter one letter per guess.
+- If the letter is in the word, all positions of that letter are revealed.
+- If the letter is not in the word, you lose an attempt.
+- The game ends when:
+    - ✅ You guess all letters (win), or
     - ❌ You run out of attempts (lose)
 
 ---
